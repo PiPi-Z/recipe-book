@@ -12,7 +12,9 @@
 
 ## 在线地址
 
-（部署到 GitHub Pages 后填写，例如 https://pipi-z.github.io/recipe-book/）
+# https://pipi-z.github.io/recipe-book/
+
+密码：`092878`
 
 ## 安装到手机
 
